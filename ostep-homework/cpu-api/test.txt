@@ -1,0 +1,2 @@
+Hello, System Calls! I am child.
+Hello, System Calls! I am parent.

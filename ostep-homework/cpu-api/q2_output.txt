@@ -1,0 +1,4 @@
+child writes first line
+child writes second line
+parent writes first line
+parent writes second line
