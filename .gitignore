@@ -8,6 +8,11 @@ books/
 *.o
 *.out
 a.out
+# ostep 作业里没有后缀的可执行文件（都有同名 .c 源码）
+p[0-9]
+q[0-9]
+run
+main
 
 # 常见临时文件
 *.swp
